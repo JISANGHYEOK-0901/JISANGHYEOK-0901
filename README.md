@@ -116,7 +116,7 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/JISANGHYEOK-0901/JISANGHYEOK-0901/output/snake.svg" alt="contribution snake" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JISANGHYEOK-0901&theme=react-dark&bg_color=0d1117&color=06b6d4&line=1d4ed8&point=ffffff&area=true&area_color=1d4ed8&hide_border=true&custom_title=Commit%20Activity%20Graph" alt="activity graph" />
+<img height="170" src="https://github-readme-streak-stats.demolab.com?user=JISANGHYEOK-0901&hide_border=true&theme=react&background=0d1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" alt="streak" />
 
 </div>
 
