@@ -116,8 +116,6 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/JISANGHYEOK-0901/JISANGHYEOK-0901/output/snake.svg" alt="contribution snake" />
 
-<img height="170" src="https://github-readme-streak-stats.demolab.com?user=JISANGHYEOK-0901&hide_border=true&theme=react&background=0d1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" alt="streak" />
-
 </div>
 
 <br/>
