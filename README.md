@@ -90,6 +90,7 @@
 ![Nx](https://img.shields.io/badge/Nx_22-143055?style=flat-square&logo=nx&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle_9-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm_10-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_GenAI-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 
@@ -113,16 +114,9 @@
 
 <div align="center">
 
+<img width="100%" src="https://raw.githubusercontent.com/JISANGHYEOK-0901/JISANGHYEOK-0901/output/snake.svg" alt="contribution snake" />
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JISANGHYEOK-0901&theme=react-dark&bg_color=0d1117&color=06b6d4&line=1d4ed8&point=ffffff&area=true&area_color=1d4ed8&hide_border=true&custom_title=Commit%20Activity%20Graph" alt="activity graph" />
-
-<img src="https://raw.githubusercontent.com/JISANGHYEOK-0901/JISANGHYEOK-0901/output/snake.svg" alt="contribution snake" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JISANGHYEOK-0901&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=react&bg_color=0d1117&title_color=06b6d4&icon_color=1d4ed8" />
-<img height="170" src="https://github-readme-streak-stats.demolab.com?user=JISANGHYEOK-0901&hide_border=true&theme=react&background=0d1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JISANGHYEOK-0901&layout=compact&langs_count=8&hide_border=true&theme=react&bg_color=0d1117&title_color=06b6d4" />
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=JISANGHYEOK-0901&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
 
 </div>
 
